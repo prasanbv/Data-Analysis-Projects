@@ -18,7 +18,7 @@ Skills
 SQL Projects
 
 Project| Description
-"Kaggle - Intro to SQL" (./SQL/Kaggle-Intro-to-SQL/)| Hands-on SQL exercises covering Getting Started with SQL and BigQuery, SELECT, FROM & WHERE, GROUP BY, HAVING & COUNT, ORDER BY, AS & WITH, and JOIN operations.
+Kaggle - Intro to SQL| Hands-on SQL exercises covering Getting Started with SQL and BigQuery, SELECT, FROM & WHERE, GROUP BY, HAVING & COUNT, ORDER BY, AS & WITH, and JOIN operations.
 
 Learning Journey
 
