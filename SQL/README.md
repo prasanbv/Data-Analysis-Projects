@@ -1,8 +1,8 @@
 # SQL Projects
 
-This folder contains my hands-on SQL learning exercises and data analysis projects completed using Kaggle datasets and Google BigQuery.
+This folder contains my SQL learning exercises and hands-on data analysis projects completed using Kaggle datasets.
 
-These projects demonstrate my ability to query, analyze, and interpret data using SQL while applying analytical thinking to solve real-world business problems.
+The projects demonstrate practical SQL skills by solving business problems, exploring datasets, and generating analytical insights.
 
 ## Skills Demonstrated
 
@@ -13,18 +13,19 @@ These projects demonstrate my ability to query, analyze, and interpret data usin
 - ORDER BY
 - Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - CASE WHEN
-- Common Table Expressions (CTEs)
-- JOINS
+- Subqueries
 - Window Functions
-- Data Filtering and Aggregation
+- Data Filtering
+- Data Aggregation
 
 ## Projects
 
 | Project | Description |
 |---------|-------------|
-| Kaggle - Intro to SQL | SQL exercises completed using Google BigQuery, covering fundamental SQL concepts and query writing. |
-| Titanic SQL Analysis | Exploratory data analysis of the Titanic dataset using SQL in Kaggle with DuckDB to answer business questions and generate insights. |
+| Kaggle - Intro to SQL | SQL exercises completed using Google BigQuery covering core SQL concepts. |
+| Titanic SQL Analysis | Exploratory SQL analysis of the Titanic dataset using DuckDB in Kaggle. |
+| Credit Card Fraud SQL Analysis | SQL analysis of credit card transaction data to explore fraud patterns and transaction behavior. |
 
 ## Learning Goal
 
-I continue to expand this collection by working on real-world datasets and improving my SQL skills for data analytics, risk, compliance, and financial crime analysis.
+To strengthen my SQL and data analysis skills through hands-on projects using real-world datasets while building a professional GitHub portfolio.
