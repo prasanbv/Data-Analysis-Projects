@@ -1,21 +1,21 @@
-Titanic SQL Analysis
+# Titanic SQL Analysis
 
-Project Overview
+## Project Overview
 
 This project demonstrates SQL-based exploratory data analysis using the Titanic dataset from Kaggle. SQL queries were written using DuckDB within a Kaggle Notebook to answer business questions and derive insights.
 
-Dataset
+## Dataset
 
 Titanic - Machine Learning from Disaster (Kaggle)
 
-Tools Used
+## Tools Used
 
 - SQL
 - DuckDB
 - Kaggle Notebook
 - GitHub
 
-SQL Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 - SELECT
 - WHERE
@@ -27,7 +27,7 @@ SQL Concepts Demonstrated
 - Subqueries
 - Window Functions
 
-Business Questions
+## Business Questions
 
 - Passenger distribution
 - Survival analysis
@@ -36,9 +36,8 @@ Business Questions
 - Passenger class comparison
 - Embarkation analysis
 
-Key Insights
+## Key Insights
 
 - First-class passengers had higher survival rates.
 - Female passengers survived more often than males.
 - Higher fares were associated with first-class travel.
-
